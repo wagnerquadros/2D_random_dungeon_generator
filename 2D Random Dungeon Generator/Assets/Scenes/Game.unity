@@ -309,7 +309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1360422528}
   - component: {fileID: 1360422527}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,6 +328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 384bb2b441a1a1042bf2d4450c7fa19d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!4 &1360422528
 Transform:
   m_ObjectHideFlags: 0
